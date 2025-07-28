@@ -19,3 +19,9 @@ Processing: The API forwards the request to the server.
 Response: The server processes the request and sends the response back to the API.
 Delivery: The API returns the server's response to the client.
 Think of this as a client-server architecture: the client sends a request, the server processes it, and the API acts as the messenger.curity threats. To provide additional security layers to the data, HTTP headers, query string parameters, or cookies are used.
+
+## Types of API Architectures:
+
+REST (Representational State Transfer) :A simple, flexible API architecture that uses HTTP methods (GET, POST, PUT, DELETE) for communication.
+SOAP (Simple Object Access Protocol) :A more rigid protocol that requires XML-based messaging for communication.
+Both define a standard communication protocol for the exchange of messages in XML (Extensible Markup Language).
