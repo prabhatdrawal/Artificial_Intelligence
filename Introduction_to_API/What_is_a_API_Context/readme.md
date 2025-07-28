@@ -46,7 +46,9 @@ It makes a remote program appear to be local by making use of RPCs (Remote Proce
 Few other types of APIs:
 
 SOAP (SIMPLE OBJECT ACCESS PROTOCOL): It defines messages in XML format used by web applications to communicate with each other.
+
 REST (Representational State Transfer): It makes use of HTTP to GET, POST, PUT, or DELETE data. It is basically used to take advantage of the existing data.
+
 JSON-RPC: It uses JSON for data transfer and is a lightweight remote procedural call defining a few data structure types.
 XML-RPC: It is based on XML and uses HTTP for data transfer. This API is widely used to exchange information between two or more networks.
 
