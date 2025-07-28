@@ -25,3 +25,9 @@ Think of this as a client-server architecture: the client sends a request, the s
 REST (Representational State Transfer) :A simple, flexible API architecture that uses HTTP methods (GET, POST, PUT, DELETE) for communication.
 SOAP (Simple Object Access Protocol) :A more rigid protocol that requires XML-based messaging for communication.
 Both define a standard communication protocol for the exchange of messages in XML (Extensible Markup Language).
+
+## How is an API Different From a Web Application?
+
+An API acts as an interface that allows proper communication between two programs whereas a web application is a network-based resource responsible for completing a single task. Also, it's important to know that "All web services are APIs, but not all APIs are web".
+
+The difference between an API and a web application is that API allows two-way communication and web applications are just a way for users to interact through a web browser. A web application may have an API to complete the requests.
