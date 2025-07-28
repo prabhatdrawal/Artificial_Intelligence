@@ -27,6 +27,28 @@ SOAP (Simple Object Access Protocol) :A more rigid protocol that requires XML-ba
 Both define a standard communication protocol for the exchange of messages in XML (Extensible Markup Language).
 
 ## How is an API Different From a Web Application?
+An API acts as an interface that allows proper communication between two programs whereas a web application is a network-based resource responsible for completing a single task. Also, it's important to know that "All web services are APIs, but not all APIs are web".
+
+The difference between an API and a web application is that API allows two-way communication and web applications are just a way for users to interact through a web browser. A web application may have an API to complete the requests.
+
+# Types of APIs
+There are three basic forms of API -
+
+1. WEB APIs
+A Web API also called Web Services is an extensively used API over the web and can be easily accessed using the HTTP protocols. A Web application programming interface is an open-source interface and can be used by a large number of clients through their phones, tablets, or PCs.
+
+2. LOCAL APIs
+In this type of API, the programmers get the local middleware services. TAPI (Telephony Application Programming Interface), and .NET are common examples of Local APIs.
+
+3. PROGRAM APIs
+It makes a remote program appear to be local by making use of RPCs (Remote Procedural Calls). SOAP is a well-known example of this type of API.
+
+Few other types of APIs:
+
+SOAP (SIMPLE OBJECT ACCESS PROTOCOL): It defines messages in XML format used by web applications to communicate with each other.
+REST (Representational State Transfer): It makes use of HTTP to GET, POST, PUT, or DELETE data. It is basically used to take advantage of the existing data.
+JSON-RPC: It uses JSON for data transfer and is a lightweight remote procedural call defining a few data structure types.
+XML-RPC: It is based on XML and uses HTTP for data transfer. This API is widely used to exchange information between two or more networks.
 
 An API acts as an interface that allows proper communication between two programs whereas a web application is a network-based resource responsible for completing a single task. Also, it's important to know that "All web services are APIs, but not all APIs are web".
 
